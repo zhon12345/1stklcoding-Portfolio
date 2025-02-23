@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@layer base {
+	:root {
+		--text: 31 31 31;
+		--background: 237 237 237;
+	}
+
+	.dark {
+		--text: 224 224 224;
+		--background: 18 18 18;
+	}
+}
